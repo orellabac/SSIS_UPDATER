@@ -148,12 +148,12 @@ Backup: .bak files will be created
 
 Found 229 .dtsx file(s) to process
 
-Processing: FIA_BLOOMBERG_INSERT_TO_EFRONT_FX_RATES.dtsx
+Processing: MyPackage.dtsx
   Found 6 ExecutableType/CreationName attribute(s) to simplify
   Found 3 component class ID(s) to upgrade
   ✓ Successfully updated 9 attribute(s)
 
-Processing: CFF_10_POS_EUR.dtsx
+Processing: MyPackage2.dtsx
   Found 2 ExecutableType/CreationName attribute(s) to simplify
   ✓ Successfully updated 2 attribute(s)
 
