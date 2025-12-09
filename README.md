@@ -324,11 +324,6 @@ For issues or questions:
 
 ## Related Tools
 
-This unified script performs both ExecutableType and component class ID modernization. Individual scripts are also available:
-- `upgrade_ssis_packages.py` - ExecutableType upgrades only (legacy)
-- `upgrade_component_classids.py` - Component class ID upgrades only (legacy)
-- `upgrade_ssis_packages_unified.py` - **Recommended: Complete modernization tool**
-
 You may also want to:
 - Use SQL Server Data Tools (SSDT) for full package upgrades
 - Consider SQL Server Integration Services Projects in Visual Studio
